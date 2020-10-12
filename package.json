@@ -1,0 +1,26 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "An app to take notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger Saldivar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salgorog/note-taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/salgorog/note-taker/issues"
+  },
+  "homepage": "https://github.com/salgorog/note-taker#readme"
+}
